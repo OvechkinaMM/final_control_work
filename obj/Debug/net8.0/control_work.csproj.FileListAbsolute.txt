@@ -1,0 +1,14 @@
+C:\Users\Мария\Desktop\control_work\bin\Debug\net8.0\control_work.exe
+C:\Users\Мария\Desktop\control_work\bin\Debug\net8.0\control_work.deps.json
+C:\Users\Мария\Desktop\control_work\bin\Debug\net8.0\control_work.runtimeconfig.json
+C:\Users\Мария\Desktop\control_work\bin\Debug\net8.0\control_work.dll
+C:\Users\Мария\Desktop\control_work\bin\Debug\net8.0\control_work.pdb
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\control_work.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\control_work.AssemblyInfo.cs
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\control_work.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\control_work.dll
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\refint\control_work.dll
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\control_work.pdb
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\control_work.genruntimeconfig.cache
+C:\Users\Мария\Desktop\control_work\obj\Debug\net8.0\ref\control_work.dll
